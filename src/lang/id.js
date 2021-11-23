@@ -1,0 +1,37 @@
+export default {
+  // info
+  aError              : 'Yah, Skuy lagi bermasalah nih, ulangi beberapa saat lagi ya! {{ercode}}',
+  aNoConnetion        : 'Offline',
+  aGagalLogin         : 'Gagal Login',
+  aNoBelumTerdaftar   : 'Nomor belum terdaftar',
+  aGagal              : 'Gagal',
+  aGagalOTP           : 'Kode OTP salah',
+  aSuccessLogin       : 'Selamat datang {{name}}!',
+  // page
+  pHome               : 'Skuy',
+  pAccount            : 'Game Account',
+  pOrder              : 'My Orders',
+  pProfile            : 'Profile',
+  pAccountDetail      : 'Detail Account',
+  pSearch             : 'Cari Gamers',
+  pNotif              : 'Notification',
+  pLogin              : 'Login',
+  pRegister           : 'Register',
+  pPin                : 'Pin',
+  pEditProfile        : 'Edit Profile',
+  pProses             : 'Be A Skuy Squad',
+  pSetting            : 'Pengaturan',
+  pTentang            : 'Tentang',
+  pFeedback           : 'Feedback',
+  pHelp               : 'Bantuan',
+  pChat               : 'Inbox',
+  pOrderMasuk         : 'Order Masuk',
+  pOrderDetail        : 'Detail Order',
+  pChatDetail         : 'Chat Detail',
+  //buttom
+  bDaftar             : 'Daftar',
+  // input
+  plInput             : 'Tulis disini',
+  inputEmpty          : 'Tidak boleh kosong',
+  inputEmptyCover     : 'Gambar cover tidak boleh kosong',
+};
